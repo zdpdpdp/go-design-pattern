@@ -8,6 +8,11 @@ thanks [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-
 
 ### 创建型模式
 
+[简单工厂模式](https://github.com/zdpdpdp/go-design-pattern/tree/master/01_simple_factory)
+
+[工厂方法模式](https://github.com/zdpdpdp/go-design-pattern/tree/master/02_factory_method)
+
+
 ### 结构型模式
 
 ### 行为型模式
@@ -17,3 +22,5 @@ thanks [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-
 ## 如何使用设计模式?
 
 ## 关于UML类图的知识
+
+https://design-patterns.readthedocs.io/zh_CN/latest/read_uml.html
